@@ -31,7 +31,7 @@ This lets you change the directory that you are in. This is how you will navigat
 This will show you every file and directory in you current working directory (the current working directory is displayed where that ~ was when you first loaded up the terminal).
 
     $ pwd
-This is short for "print working directory." This will show you where your terminal is looking at.
+This is short for "print working directory." This will show where your terminal is looking at.
 
     $ man <command>
 This brings up the manual page for whatever comand you specify. This will be your best friend!
