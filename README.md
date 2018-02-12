@@ -13,3 +13,5 @@ Feel free to try your hand at writing your own guides. All members of the ACM
 team should have push access. If you are not on the ACM team, ask one of the
 officers to add you. You will still need to submit a PR to get your changes
 approved.
+
+See the [Contributing Guidelines](./CONTRIBUTING.md) for details.
