@@ -1,7 +1,7 @@
 # TurboGears
-
+| Useful Links      |                         |
 |-------------------|-------------------------|
-| **Documentation** | https://turbogears.org/ |
+| Documentation     | https://turbogears.org/ |
 
 ## Overview
 
