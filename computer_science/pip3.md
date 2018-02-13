@@ -10,7 +10,7 @@ pip3 is a tool for installing Python packages.
 
 ## Installing pip3
 
-First, [install Python 3](./Python3.md#Installing-Python-3). Then, follow these
+First, [install Python 3](./Python3.md#installing-python-3). Then, follow these
 instructions:
 
 ### Linux

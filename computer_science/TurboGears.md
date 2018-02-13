@@ -12,7 +12,7 @@ Bootstrap.
 ## Getting Started on an Existing TurboGears Project
 
 1. TurboGears projects are Python projects. You will need to [install Python
-   3](./Python3.md) if you haven't already.
+   3](./Python3.md#installing-python-3) if you haven't already.
 
 2. Now, clone the repository using [Git](./GIT.md).
 

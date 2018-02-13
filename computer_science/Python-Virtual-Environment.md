@@ -11,7 +11,7 @@ development purposes.
 
 ## Installing Python Virtual Environments
 
-Make sure you have, [Python 3](./Python3.md#Installing-Python-3) installed.
+Make sure you have, [Python 3](./Python3.md#installing-python-3) installed.
 Then, install `virtualenvwrapper`.
 
 ### Linux
