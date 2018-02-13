@@ -23,20 +23,20 @@ Bootstrap.
 
    1. Install the application and its dependencies:
 
-        $ pip install -e . --user
+          $ pip install -e . --user
 
    2. If you do not have `gearbox` installed:
 
-        $ pip install --user tg.devtools
+          $ pip install --user tg.devtools
 
    3. Setup the application:
 
-        $ cp development.ini.sample development.ini
-        $ gearbox setup-app
+          $ cp development.ini.sample development.ini
+          $ gearbox setup-app
 
    4. Serve the application:
 
-        $ gearbox serve --reload --debug
+          $ gearbox serve --reload --debug
 
    5. Go to your web browser and navigate to `localhost:8080` to view the
       website.
