@@ -9,17 +9,22 @@ Post your favorite books here
 - Hitchhiker's Guide to the Galaxy, Douglas Adams
 - Neuromancer, William Gibson
 - The Three-Body Problem, Liu Cixin
+
 ## Fantasy
 - Eragon Series
 - Mistborn Series, Brandon Sanderson
 - The Name of the Wind, Patrick Rothfuss
+
 ## Historical Fiction
-- Crytonomicon, Neal Stephenson
+- Crytonomicon, Neil Stephenson
+
 # Non Fiction
 ## Life
 - The Richest Man in Babalon
+
 ## History
 - The Decline and Fall of the Roman Empire
+
 ## Knowledge
 - Freakonomics, Steven Levitt, Stephen Dubner
 - Feynman Lectures, Richard Feynman
