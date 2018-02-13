@@ -14,7 +14,7 @@ Bootstrap.
 1. TurboGears projects are Python projects. You will need to [install Python
    3](./Python3.md#installing-python-3) if you haven't already.
 
-2. Now, clone the repository using [Git](./GIT.md).
+2. Now, clone the repository using [Git](./Git.md).
 
 3. Now, you need to install the application and its dependencies. If you do not
    want to install all of the packages in `~/.local`, you can use a [Python
