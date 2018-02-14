@@ -1,8 +1,11 @@
 # Book Recommendations
 
 Post your favorite books here
+
 # Fiction
+
 ## Science Fiction
+
 - A Deepness in the Sky, Verner Vinge
 - A Fire Apon the Deep, Verner Vinge
 - Diaspora, Greg Egan
@@ -19,17 +22,27 @@ Post your favorite books here
 - Crytonomicon, Neil Stephenson
 
 # Non Fiction
+
+## Computer Science
+
+- Cracking the Coding Interview
+- The Art of Computer Programming, Donald Knuth
+
 ## Life
-- The Richest Man in Babalon
+
+- The Richest Man in Babylon
 
 ## History
+
 - The Decline and Fall of the Roman Empire
 
 ## Knowledge
+
 - Freakonomics, Steven Levitt, Stephen Dubner
 - Feynman Lectures, Richard Feynman
 
 # Short Stories
+
 - Blood Sisters, Greg Egan
 - The Caress, Greg Egan
 - Missile Gap, Charles Stross
