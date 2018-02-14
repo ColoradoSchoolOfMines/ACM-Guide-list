@@ -21,6 +21,9 @@ Bootstrap.
    Virtual environment](./Python-Virtual-Environment.md). If you choose to do
    so, remove `--user` from the following commands.
 
+   Note, make sure you are using the proper version of pip. You need to use
+   pip version 3 or greater.
+
    1. Install the application and its dependencies:
 
           $ pip install -e . --user
@@ -34,9 +37,9 @@ Bootstrap.
           $ cp development.ini.sample development.ini
           $ gearbox setup-app
 
-   4. Serve the application:
+   4. Now you can serve the application:
 
           $ gearbox serve --reload --debug
 
-   5. Go to your web browser and navigate to `localhost:8080` to view the
-      website.
+   5. To view the application, go to your web browser and navigate to
+      `localhost:8080` to view the website.
