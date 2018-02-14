@@ -23,8 +23,9 @@ pip3 is in your distribution's package manager, and likely already installed:
 
 ### Mac
 
-pip3 is included in the [`python3`
-formulae](http://formulae.brew.sh/formula/python3) on [Homebrew](./Homebrew.md). 
+pip3 is included in the
+[`python3` formulae](http://formulae.brew.sh/formula/python3) on
+[Homebrew](./Homebrew.md).
 
 ### Windows
 

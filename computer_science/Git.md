@@ -1,8 +1,15 @@
-# What is Git?
-Git is a version control system that people use a great deal in computer science.
-People use it to host projects, promote collaboration, and share it with others.
-Github (and by extension git) is the go to place for collaborating on open-
-source projects.
+# Git
+| Useful Links     |                                                    |
+|------------------|----------------------------------------------------|
+| Website          | https://git-scm.org/                               |
+| LUG Presentation | https://github.com/sumnerevans/lug-git-talk        |
+
+## Overview
+
+Git is a version control system that people use a great deal in computer
+science.  People use it to host projects, promote collaboration, and share it
+with others.  Github (and by extension git) is the go to place for collaborating
+on open- source projects.
 
 Please note that these resources make the most sense with rudimentary knowledge
 of bash.
@@ -23,9 +30,6 @@ another guide](http://kbroman.org/github_tutorial/pages/fork.html)
 
 ## Markdown File Format
 
-Markdown is an essential and important format for documenation and style.
-You should be looking at this in a markdown file (.md) itself. [Educate yourself](https://guides.github.com/features/mastering-markdown/)
-
-## CSM LUG Presentation on git
-
-[In case the above were not enough.](https://github.com/sumnerevans/lug-git-talk)
+Markdown is an essential and important format for documentation and style.  You
+should be looking at this in a markdown file (`.md`) itself. [Educate
+yourself](https://guides.github.com/features/mastering-markdown/)
