@@ -1,7 +1,8 @@
 # TurboGears
-| Useful Links      |                         |
-|-------------------|-------------------------|
-| Documentation     | http://turbogears.org/  |
+| Useful Links      |                                                                            |
+|-------------------|----------------------------------------------------------------------------|
+| Website           | http://turbogears.org/                                                     |
+| Documentation     | https://turbogears.readthedocs.io/en/latest/turbogears/minimal/index.html# |
 
 ## Overview
 
