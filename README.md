@@ -17,3 +17,8 @@ the ACM team, ask one of the officers to add you. You will still need to submit
 a PR to get your changes approved.
 
 See the [Contributing Guidelines](./CONTRIBUTING.md) for details.
+
+## License
+
+This content is licensed under the CC-BY-SA 4.0 License. See the
+[LICENSE](./LICENSE) file for details.
