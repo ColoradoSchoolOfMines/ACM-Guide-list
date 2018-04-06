@@ -1,10 +1,13 @@
-# Book Recommendations
+Book Recommendations
+====================
 
 Post your favorite books here
 
-# Fiction
+Fiction
+-------
 
-## Science Fiction
+Science Fiction
+^^^^^^^^^^^^^^^
 
 - A Deepness in the Sky, Verner Vinge
 - A Fire Apon the Deep, Verner Vinge
@@ -13,35 +16,45 @@ Post your favorite books here
 - Neuromancer, William Gibson
 - The Three-Body Problem, Liu Cixin
 
-## Fantasy
+Fantasy
+^^^^^^^
+
 - Eragon Series
 - Mistborn Series, Brandon Sanderson
 - The Name of the Wind, Patrick Rothfuss
 
-## Historical Fiction
+Historical Fiction
+^^^^^^^^^^^^^^^^^^
+
 - Crytonomicon, Neil Stephenson
 
-# Non Fiction
+Non-Fiction
+-----------
 
-## Computer Science
+Computer Science
+^^^^^^^^^^^^^^^^
 
 - Cracking the Coding Interview
 - The Art of Computer Programming, Donald Knuth
 
-## Life
+Life
+^^^^
 
 - The Richest Man in Babylon
 
-## History
+History
+^^^^^^^
 
 - The Decline and Fall of the Roman Empire
 
-## Knowledge
+Knowledge
+^^^^^^^^^
 
 - Freakonomics, Steven Levitt, Stephen Dubner
 - Feynman Lectures, Richard Feynman
 
-# Short Stories
+Short Stories
+-------------
 
 - Blood Sisters, Greg Egan
 - The Caress, Greg Egan
